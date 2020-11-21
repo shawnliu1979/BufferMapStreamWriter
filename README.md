@@ -1,0 +1,2 @@
+# BufferMapStreamWriter
+以Map的形式批量的独立与编辑线程的自动输出至文件
